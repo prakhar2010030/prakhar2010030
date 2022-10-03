@@ -1,14 +1,16 @@
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Prakhar</h1>
-<h3 align="center">A passionate frontend developer</h3>
 
 
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;frontend+developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
   
 <p>
   
-  B.Tech(C.S.E) undergrad student with coding knowledge in different programming languages. Currently working with ReactJs for building front-end applications. A motivated and dedicated individual seeking a position that involves regular use of these skills.
+ An udergrad student with coding knowledge in different programming languages. Currently working with ReactJs for building front-end applications. A motivated and dedicated individual seeking a position that involves regular use of these skills.
   </p>
 
  <img align = 'right' src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e474umcobkbv16m41gk734bd1ie3hdo48rolb8gc4e3&rid=200.webp&ct=g" width="200">
