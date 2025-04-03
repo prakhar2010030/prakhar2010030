@@ -5,13 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar2010030&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar2010030" /> </p>
 
-
 <br/>
 <span>
-<a href="[https://www.linkedin.com/in/kumar-prakhar-rawat-551799223]" target="_blank"><img alt="LinkedIn" align="right" width="22" src="https://cdn.simpleicons.org/linkedin/white" /></a>
+<a href="[https://www.linkedin.com/in/kumar-prakhar-rawat-551799223]" target="_blank"><img alt="LinkedIn" align="left" width="22" src="https://cdn.simpleicons.org/linkedin/white" /></a>
 &#8287;&#8287;
 &#8287;&#8287;
-<a href="https://github.com/prakhar2010030" target="_blank"><img alt="Github" align="right" width="22" src="https://cdn.simpleicons.org/github/white" /></a>
+<a href="https://github.com/prakhar2010030" target="_blank"><img alt="Github" align="left" width="22" src="https://cdn.simpleicons.org/github/white" /></a>
 </span>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -23,8 +22,8 @@
 - 💬 Ask me about **next.js, nodeJs, typescript**
 
 - 📫 How to reach me **<prakhar2010030kumar@gmail.com>**
-- 
-- - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1jFfdVfGsXOwGFgtnMzglUsaC8F4IjGZM](https://drive.google.com/drive/u/0/folders/1jFfdVfGsXOwGFgtnMzglUsaC8F4IjGZM)
+
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1jFfdVfGsXOwGFgtnMzglUsaC8F4IjGZM](https://drive.google.com/drive/u/0/folders/1jFfdVfGsXOwGFgtnMzglUsaC8F4IjGZM)
 
 <br/>
 
@@ -34,7 +33,7 @@
 <p align="left">
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,postman,vscode,webstorm,vercel,vite,powershell,bash,linux,mysql,md,firebase,cloudflare,java,c,py"/> -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,,mongodb,mysql,vitest,postman,vscode,,vercel,vite,bash,linux,cloudflare,,c,py,docker)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,mongodb,mysql,postman,vscode,vercel,vite,bash,linux,cloudflare,c,cpp,py,docker,prometheus,grafana)]
 
   <!-- jest -->
 </p>
@@ -61,16 +60,8 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img width=440 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=prakhar2010030&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/>
 </div>
 
-<div align=center>
-  <a href=""><img src="https://api.daily.dev/devcards/cf5f5602012c452cb9f62160dc185527.png?r=9qu" width="260" alt="my Dev Card"/></a>
-</div>
 
 
 <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar2010030&" alt="prakhar2010030" /></p>
