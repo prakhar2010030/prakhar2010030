@@ -23,8 +23,6 @@
 
 - 📫 How to reach me **<prakhar2010030kumar@gmail.com>**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1jFfdVfGsXOwGFgtnMzglUsaC8F4IjGZM](https://drive.google.com/drive/u/0/folders/1jFfdVfGsXOwGFgtnMzglUsaC8F4IjGZM)
-
 <br/>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
