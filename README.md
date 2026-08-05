@@ -7,7 +7,9 @@
 
 <br/>
 <span>
-<a href="[https://www.linkedin.com/in/kumar-prakhar-rawat-551799223]" target="_blank"><img alt="LinkedIn" align="left" width="22" src="https://cdn.simpleicons.org/linkedin/white" /></a>
+<a href="https://www.linkedin.com/in/kumar-prakhar-rawat-551799223">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
 &#8287;&#8287;
 &#8287;&#8287;
 <a href="https://github.com/prakhar2010030" target="_blank"><img alt="Github" align="left" width="22" src="https://cdn.simpleicons.org/github/white" /></a>
@@ -31,7 +33,7 @@
 <p align="left">
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,postman,vscode,webstorm,vercel,vite,powershell,bash,linux,mysql,md,firebase,cloudflare,java,c,py"/> -->
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,npm,git,nodejs,express,prisma,postgres,mongodb,linux,docker,kubernetes,prometheus,grafana)]
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,git,nodejs,express,NestJs,prisma,postgres,mongodb,linux,docker,kubernetes,prometheus,grafana)]
 
   <!-- jest -->
 </p>
